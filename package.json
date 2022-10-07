@@ -1,5 +1,5 @@
 {
-  "name": "class-mixins",
+  "name": "@nativescript-community/class-mixins",
   "version": "1.0.0",
   "description": "Utility method to create Class mixins",
   "main": "index.js",
